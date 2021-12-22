@@ -1,0 +1,5 @@
+workspace {
+  uid = "a0b7c4b1-c2f2-4054-8672-6f25758c899f"
+  name = "manual dependencies"
+  staleStateThresholdMinutes = undefined
+}
