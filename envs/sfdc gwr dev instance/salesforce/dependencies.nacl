@@ -1,0 +1,10 @@
+type salesLoft.Dependencies {
+    string cadence1 {
+
+    }
+    string cadence2 {
+         _depends_on = [
+          salesforce.Lead.field.ProductInterest__c
+    ] 
+    }
+}
