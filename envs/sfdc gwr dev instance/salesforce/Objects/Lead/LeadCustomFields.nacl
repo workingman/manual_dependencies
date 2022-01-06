@@ -19,9 +19,9 @@ type salesforce.Lead {
     label = "Product Interest"
     valueSet = [
       {
-        fullName = "GC1000 series"
+        fullName = "GC1001 series_"
         default = false
-        label = "GC1000 series"
+        label = "GC1001 series_"
       },
       {
         fullName = "GC5000 series"

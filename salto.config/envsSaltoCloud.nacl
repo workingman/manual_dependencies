@@ -4,5 +4,9 @@ envs {
       uuid = "8d18a85b-da26-4cfa-97ba-8df916a554c7"
       folderName = "sfdc gwr dev instance"
     },
+    {
+      uuid = "7022f990-056c-4c19-ad20-d4de220bfaa5"
+      folderName = "sfdc gwr di UAT"
+    },
   ]
 }
