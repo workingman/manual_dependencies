@@ -5,8 +5,8 @@ salesforce.AssignmentRules Case {
       active = true
       ruleEntry = [
         {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
-          assignedToType = "User"
+          assignedTo = "CaseQ"
+          assignedToType = "Queue"
           criteriaItems = [
             {
               field = "Account.BillingCountry"
@@ -26,8 +26,8 @@ salesforce.AssignmentRules Case {
           ]
         },
         {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
-          assignedToType = "User"
+          assignedTo = "CaseQ"
+          assignedToType = "Queue"
           criteriaItems = [
             {
               field = "Account.BillingCountry"
@@ -47,8 +47,8 @@ salesforce.AssignmentRules Case {
           ]
         },
         {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
-          assignedToType = "User"
+          assignedTo = "CaseQ"
+          assignedToType = "Queue"
           criteriaItems = [
             {
               field = "Account.BillingCountry"
@@ -68,8 +68,8 @@ salesforce.AssignmentRules Case {
           ]
         },
         {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
-          assignedToType = "User"
+          assignedTo = "CaseQ"
+          assignedToType = "Queue"
           criteriaItems = [
             {
               field = "Account.BillingCountry"
@@ -89,8 +89,8 @@ salesforce.AssignmentRules Case {
           ]
         },
         {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
-          assignedToType = "User"
+          assignedTo = "CaseQ"
+          assignedToType = "Queue"
           criteriaItems = [
             {
               field = salesforce.Account.field.Type

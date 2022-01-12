@@ -5,8 +5,8 @@ salesforce.AssignmentRules Lead {
       active = true
       ruleEntry = [
         {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
-          assignedToType = "User"
+          assignedTo = "LeadQ"
+          assignedToType = "Queue"
           criteriaItems = [
             {
               field = "Lead.Country"
@@ -16,8 +16,8 @@ salesforce.AssignmentRules Lead {
           ]
         },
         {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
-          assignedToType = "User"
+          assignedTo = "LeadQ"
+          assignedToType = "Queue"
           criteriaItems = [
             {
               field = "Lead.Country"

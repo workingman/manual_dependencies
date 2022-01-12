@@ -1,0 +1,8 @@
+salesforce.Queue LeadQ {
+  fullName = "LeadQ"
+  doesSendEmailToMembers = false
+  name = "LeadQ"
+  queueSobject = {
+    sobjectType = "Lead"
+  }
+}

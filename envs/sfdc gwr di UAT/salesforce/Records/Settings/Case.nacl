@@ -11,9 +11,9 @@ salesforce.CaseSettings {
   caseMergeInLightning = "false"
   closeCaseThroughStatusChange = false
   defaultCaseFeedLayoutOn = true
-  defaultCaseOwner = "geoffrey.routledge+dev@salto.io"
-  defaultCaseOwnerType = "User"
-  defaultCaseUser = "geoffrey.routledge+dev@salto.io"
+  defaultCaseOwner = "CaseQ"
+  defaultCaseOwnerType = "Queue"
+  
   emailToCase = {
     enableEmailToCase = false
   }
@@ -35,11 +35,12 @@ salesforce.CaseSettings {
   notifyOwnerOnCaseOwnerChange = false
   showEmailAttachmentsInCaseAttachmentsRL = true
   useSystemEmailAddress = true
-  useSystemUserAsDefaultCaseUser = false
+  useSystemUserAsDefaultCaseUser = true
   visibleInCssCheckbox = false
   webToCase = {
     caseOrigin = "Web"
     defaultResponseTemplate = "unfiled$public/SupportCaseCreatedWebInquiries"
     enableWebToCase = true
   }
+  systemUserEmail = "geoffrey.routledge+demo@salto.io"
 }

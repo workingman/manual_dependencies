@@ -38,9 +38,7 @@ type salesforce.Lead {
     externalId = false
     trackFeedHistory = false
     sorted = false
-    _depends_on = [
-      salesLoft.Dependencies.field.cadence1,
-    ]
+    
   }
   salesforce.Picklist Primary__c {
     apiName = "Lead.Primary__c"

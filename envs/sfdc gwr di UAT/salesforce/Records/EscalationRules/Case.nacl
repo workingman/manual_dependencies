@@ -24,13 +24,13 @@ salesforce.EscalationRules Case {
           },
         ]
         escalationAction = {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
+          assignedTo = "CaseQ"
           assignedToTemplate = "unfiled$public/SupportEscalatedCaseReassignment"
-          assignedToType = "User"
+          assignedToType = "Queue"
           minutesToEscalation = "120"
           notifyCaseOwner = "false"
-          notifyTo = "geoffrey.routledge+dev@salto.io"
-          notifyToTemplate = "unfiled$public/SupportEscalatedCaseNotification"
+          
+          
         }
         escalationStartTime = "CaseCreation"
       },
@@ -54,13 +54,13 @@ salesforce.EscalationRules Case {
           },
         ]
         escalationAction = {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
+          assignedTo = "CaseQ"
           assignedToTemplate = "unfiled$public/SupportEscalatedCaseReassignment"
-          assignedToType = "User"
-          minutesToEscalation = "360"
+          assignedToType = "Queue"
+          minutesToEscalation = "120"
           notifyCaseOwner = "false"
-          notifyTo = "geoffrey.routledge+dev@salto.io"
-          notifyToTemplate = "unfiled$public/SupportEscalatedCaseNotification"
+          
+          
         }
         escalationStartTime = "CaseCreation"
       },
@@ -84,13 +84,13 @@ salesforce.EscalationRules Case {
           },
         ]
         escalationAction = {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
+          assignedTo = "CaseQ"
           assignedToTemplate = "unfiled$public/SupportEscalatedCaseReassignment"
-          assignedToType = "User"
-          minutesToEscalation = "240"
+          assignedToType = "Queue"
+          minutesToEscalation = "120"
           notifyCaseOwner = "false"
-          notifyTo = "geoffrey.routledge+dev@salto.io"
-          notifyToTemplate = "unfiled$public/SupportEscalatedCaseNotification"
+          
+          
         }
         escalationStartTime = "CaseCreation"
       },
@@ -114,13 +114,13 @@ salesforce.EscalationRules Case {
           },
         ]
         escalationAction = {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
+          assignedTo = "CaseQ"
           assignedToTemplate = "unfiled$public/SupportEscalatedCaseReassignment"
-          assignedToType = "User"
-          minutesToEscalation = "480"
+          assignedToType = "Queue"
+          minutesToEscalation = "120"
           notifyCaseOwner = "false"
-          notifyTo = "geoffrey.routledge+dev@salto.io"
-          notifyToTemplate = "unfiled$public/SupportEscalatedCaseNotification"
+          
+          
         }
         escalationStartTime = "CaseCreation"
       },
@@ -139,13 +139,13 @@ salesforce.EscalationRules Case {
           },
         ]
         escalationAction = {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
+          assignedTo = "CaseQ"
           assignedToTemplate = "unfiled$public/SupportEscalatedCaseReassignment"
-          assignedToType = "User"
-          minutesToEscalation = "720"
+          assignedToType = "Queue"
+          minutesToEscalation = "120"
           notifyCaseOwner = "false"
-          notifyTo = "geoffrey.routledge+dev@salto.io"
-          notifyToTemplate = "unfiled$public/SupportEscalatedCaseNotification"
+          
+          
         }
         escalationStartTime = "CaseCreation"
       },
@@ -164,13 +164,13 @@ salesforce.EscalationRules Case {
           },
         ]
         escalationAction = {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
+          assignedTo = "CaseQ"
           assignedToTemplate = "unfiled$public/SupportEscalatedCaseReassignment"
-          assignedToType = "User"
-          minutesToEscalation = "1440"
+          assignedToType = "Queue"
+          minutesToEscalation = "120"
           notifyCaseOwner = "false"
-          notifyTo = "geoffrey.routledge+dev@salto.io"
-          notifyToTemplate = "unfiled$public/SupportEscalatedCaseNotification"
+          
+          
         }
         escalationStartTime = "CaseCreation"
       },
@@ -189,13 +189,13 @@ salesforce.EscalationRules Case {
           },
         ]
         escalationAction = {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
+          assignedTo = "CaseQ"
           assignedToTemplate = "unfiled$public/SupportEscalatedCaseReassignment"
-          assignedToType = "User"
-          minutesToEscalation = "360"
+          assignedToType = "Queue"
+          minutesToEscalation = "120"
           notifyCaseOwner = "false"
-          notifyTo = "geoffrey.routledge+dev@salto.io"
-          notifyToTemplate = "unfiled$public/SupportEscalatedCaseNotification"
+          
+          
         }
         escalationStartTime = "CaseCreation"
       },
@@ -214,13 +214,13 @@ salesforce.EscalationRules Case {
           },
         ]
         escalationAction = {
-          assignedTo = "geoffrey.routledge+dev@salto.io"
+          assignedTo = "CaseQ"
           assignedToTemplate = "unfiled$public/SupportEscalatedCaseReassignment"
-          assignedToType = "User"
-          minutesToEscalation = "1080"
+          assignedToType = "Queue"
+          minutesToEscalation = "120"
           notifyCaseOwner = "false"
-          notifyTo = "geoffrey.routledge+dev@salto.io"
-          notifyToTemplate = "unfiled$public/SupportEscalatedCaseNotification"
+          
+          
         }
         escalationStartTime = "CaseCreation"
       },

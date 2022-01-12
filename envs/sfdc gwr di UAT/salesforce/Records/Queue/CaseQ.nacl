@@ -1,0 +1,8 @@
+salesforce.Queue CaseQ {
+  fullName = "CaseQ"
+  doesSendEmailToMembers = false
+  name = "CaseQ"
+  queueSobject = {
+    sobjectType = "Case"
+  }
+}

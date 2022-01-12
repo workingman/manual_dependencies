@@ -133,9 +133,9 @@ type salesforce.EmailMessage {
     label = "From"
     valueSet = [
       {
-        fullName = "geoffrey.routledge@salto.io"
+        fullName = "geoffrey.routledge+uat@salto.io"
         default = false
-        label = "Geoffrey Routledge <geoffrey.routledge@salto.io>"
+        label = "GWR UAT <geoffrey.routledge+uat@salto.io>"
         isActive = true
       },
     ]

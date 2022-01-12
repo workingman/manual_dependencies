@@ -1,0 +1,12 @@
+salesforce.ListView Case_CaseQ_Case {
+  fullName = "Case.CaseQ_Case"
+  filterScope = "Queue"
+  label = "CaseQ"
+  queue = "CaseQ"
+  sharedTo = {
+    allInternalUsers = ""
+  }
+  _parent = [
+    salesforce.Case,
+  ]
+}
